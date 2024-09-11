@@ -1,6 +1,6 @@
 # software_hardware
 Página hmtl e Css com informações e orientações sobre sofwares e hardwares.
-Criado para fins educativo, em aplicação de aulas para aulunos do Ensino Médio 1º e 2º Anos do Colégio Minas Austral etambém para alunos de Desenvolvimento WEB e Gestores de TI, com fins de orientações para conhecimento de Sofwares e Hardwares e visão sobre Inteligência Artificial aplicada em softwares. 
+Criado para fins educativo, em aplicação de aulas para aulunos do Ensino Médio 1º e 2º Anos  e também para alunos de Desenvolvimento WEB e Gestores de TI, Técnicos com fins de orientações para conhecimento de Sofwares e Hardwares e visão sobre Inteligência Artificial aplicada em softwares. 
 
 Sem fins lucrativos e somente para uso Educacional.
 O linke de acesso ao código/site é :https://irae-cesar-brandao.github.io/software_hardware/
